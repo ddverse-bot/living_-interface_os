@@ -20,7 +20,6 @@ This project explores what happens when UI reacts to **human behavior** instead 
 - Three.js
 - CSS Houdini (Paint API)
 
-## Philosophy
-> Stop designing screens. Start designing behavior.
+
 
 
